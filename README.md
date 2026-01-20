@@ -1,6 +1,6 @@
 # WordPress Publisher Skill for Claude
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet)](https://claude.ai)
 [![SkillsMP](https://img.shields.io/badge/SkillsMP-Listed-blue)](https://skillsmp.com)
 [![WordPress](https://img.shields.io/badge/WordPress-REST%20API-21759B)](https://developer.wordpress.org/rest-api/)
@@ -183,7 +183,14 @@ pytest tests/
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) for details.
+This project is licensed under the GPL v3 License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**M Asif Rahman**
+
+- Website: [MAsifRahman.com](https://MAsifRahman.com)
+- GitHub: [@Asif2BD](https://github.com/Asif2BD)
 
 ## 🔗 Links
 
@@ -191,12 +198,14 @@ MIT License - see [LICENSE](LICENSE) for details.
 - **Issues**: [Report a bug](https://github.com/Asif2BD/WordPress-Publishing-Skill-For-Claude/issues)
 - **SkillsMP**: [Skills Marketplace](https://skillsmp.com)
 
-## 👤 Author
+## 🙏 Acknowledgments
 
-**Suspended suspended** - [xCloud.host](https://xcloud.host)
+- WordPress REST API Team
+- Gutenberg Block Editor Team
+- Claude AI by Anthropic
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ for the Claude community</sub>
+  Made with ❤️ by <a href="https://MAsifRahman.com">M Asif Rahman</a>
 </p>
